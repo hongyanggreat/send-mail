@@ -14,8 +14,9 @@ use yii\web\NotFoundHttpException;
  */
 class MessageController extends Controller {
 
+
 	/**
-	 * @return array
+	 * @return array V.1.0
 	 */
 	public function behaviors() {
 		return [
